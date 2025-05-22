@@ -1,6 +1,6 @@
 # 3D-Visualization-of-Skull
 
-# 📦 3D Volume Rendering and Gradient Visualization in Java
+# 📦 3D Volume Rendering and Gradient Visualization
 
 Welcome to my academic project for **3D volume data visualization and gradient analysis** using pure Java. This project processes volumetric data (e.g. medical CT or MRI scans) stored in raw binary format, computes gradients, and generates 2D image projections for visual analysis.
 
